@@ -1,0 +1,3 @@
+git add *
+git commit -m "Adiciona receita pavê"
+git push origin master
