@@ -1,3 +1,3 @@
-git add *
-git commit -m "Adiciona receita pavê"
-git push origin master
+git add * ou git add.
+git commit -m "(escreva o comentário)"
+git push origin master ou main
